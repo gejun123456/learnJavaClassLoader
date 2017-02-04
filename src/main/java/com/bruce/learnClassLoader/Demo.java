@@ -6,5 +6,5 @@ package com.bruce.learnClassLoader;
  * @Description
  */
 public class Demo {
-    
+
 }
